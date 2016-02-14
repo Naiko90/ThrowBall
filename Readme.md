@@ -8,4 +8,6 @@
   - Difficulty can be changed by pressing the right button of the mouse.
   - To throw the ball just press S, you will need to select the strength and the right angle...
 
-GOOD LUCK!
+#GOOD LUCK!
+
+![Throwball image](http://i65.tinypic.com/2ut6eyw.png)
